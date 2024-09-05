@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "In React.js which one of the following is used to create a class for Inheritance ?",
+        option1: "Create",
+        option2: "Extends",
+        option3: "Inherits",
+        option4: "Delete",
+        ans: 2,
+    },
+    {
+        question: "What is the default port number in which the application run ?",
+        option1:"3000",
+        option2:"8080",
+        option3:"5000",
+        option4:"3030",
+        ans: 1,
+    },
+    {
+        question: "Which of the following valid component return type of React ?",
+        option1:"2",
+        option2:"5",
+        option3:"1",
+        option4:"3",
+        ans: 3,
+    },
+    {
+        question:"Which of the following is a way to handle data in React.js ?",
+        option1:"State & Props",
+        option2:"Services & Components",
+        option3:"State & Services",
+        option4:"State & Component",
+        ans: 1,
+    },
+    {
+        question:"Which of the following is must for the API in React.js ?",
+        option1:"SetinitialComponent",
+        option2:"renderComponent",
+        option3:"render",
+        option4:"All of the above",
+        ans: 2,
+    },
+]

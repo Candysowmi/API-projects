@@ -1,0 +1,74 @@
+body{
+  background-image: url(pexels-pixabay-209831.jpg);
+ background-size:cover;
+}
+.all{
+  margin-left: 600px;
+  border: 2px solid  rgba(40, 37, 54, 0.674);
+  width: 350px;
+  height: 360px;
+ padding-left:30px ;
+ box-shadow: 0px 0px 3px 3px rgba(40, 37, 54, 0.674);
+ margin-top: 230px;
+}
+h1{
+  color:  #182b3c;
+  font-size: 3.2em;
+  text-shadow: 2px 2px 2px rgb(248, 246, 246);
+}
+input[type=text]{
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+  
+}
+.click{
+  width: 100px;
+  margin-left: 40px;
+  height: 25px;
+  background-color:  rgba(40, 37, 54, 0.674);
+  color: white;
+}
+.click:hover{
+  background-color: grey;
+  color: black;
+}
+.clear{
+  width: 100px;
+  margin-left: 40px;
+  height: 25px;
+  background-color:  rgba(40, 37, 54, 0.674);
+  color: white;
+}
+.clear:hover{
+  background-color: grey;
+  color: black;
+}
+.country{
+  font-size: 25px;
+ padding-left: 100px;
+ color: white;
+}
+.temp{
+  font-size: 20px;
+  padding-left: 5px;
+  color: white;
+ }
+ .lat{
+  font-size: 20px;
+  padding-left: 200px;
+  color: white;
+ margin-top: -89px;
+
+ }
+ .lon{
+  font-size: 20px;
+  padding-left: 200px;
+  color: white;
+ }
+ .feels{
+  font-size: 20px;
+  padding-left: 5px;
+  color: white;
+
+ }

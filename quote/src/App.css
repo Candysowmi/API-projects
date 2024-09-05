@@ -1,0 +1,48 @@
+body{
+  background-image: url(images.jpeg);
+
+  background-size: cover;
+}
+h1{
+  text-align: center;
+  font-size:50px;
+  padding-top: 100px;
+  text-shadow: 4px 3px  rgba(16, 16, 16, 0.899);
+  color: rgba(232, 230, 230, 0.733);
+
+}
+h3{
+  text-align: center;
+  font-size:40px;
+  padding-left: 200px;
+  padding-right: 250px;
+  padding-top: 30px;
+  color: rgba(232, 230, 230, 0.733);
+  
+}
+h6{
+  text-align:right;
+  font-size:30px;
+  padding-right: 350px;
+   margin-top: 80px;
+   color: rgba(232, 230, 230, 0.733);
+
+}
+button{
+  width: 260px;
+  height: 35px;
+  margin-left: 600px;
+  background-color:rgba(232, 230, 230, 0.733);
+  color: rgb(23, 22, 22);
+  font-weight: 700;
+  font-size: 20px;
+  border-radius: 10PX;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.416);
+}
+button:hover{
+  background-color:rgb(169, 167, 167);
+}
+hr{
+  margin-left: 200px;
+  margin-right: 200px;
+}

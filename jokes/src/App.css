@@ -1,0 +1,47 @@
+body{
+  background-image: url(pngtree-a-cluster-of-cheerful-yellow-emojis-in-3d-render-laughing-and-picture-image_3750226.jpg);
+  background-size: cover;
+}
+.id{
+  margin-left: 300px;
+  margin-right: 200px;
+  margin-top: 300px;
+  background-color: rgba(22, 21, 21, 0.379);
+  width: 900px; 
+  height: 270px;
+}
+h1{
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+hr{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+h3{
+  color:white;
+  text-align: center;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 3px;
+}
+button{
+  margin-top: 10px;
+  margin-left: 380px;
+  border-radius: 5px;
+  width: 150px;
+  height: 40px;
+  font-weight: 600;
+  /* margin-bottom: 10px; */
+}
+button:hover{
+  background-color: rgba(241, 237, 237, 0.379) ;
+  color: black;
+  font-weight: 700;
+}
+P{
+  text-align: center;
+  padding-left: 150PX;
+  padding-right: 150PX;
+}
